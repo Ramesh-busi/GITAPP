@@ -1,0 +1,4 @@
+D:\GITSampleproject\GItAPP\GItAPP\bin\GItAPP.dll
+D:\GITSampleproject\GItAPP\GItAPP\bin\GItAPP.pdb
+D:\GITSampleproject\GItAPP\GItAPP\obj\Debug\GItAPP.dll
+D:\GITSampleproject\GItAPP\GItAPP\obj\Debug\GItAPP.pdb
