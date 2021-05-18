@@ -66,6 +66,7 @@
     <Content Include="Account\ChangePasswordSuccess.aspx" />
     <Content Include="Account\Login.aspx" />
     <Content Include="Account\Register.aspx" />
+    <Content Include="getdata.aspx" />
     <Content Include="Home.aspx" />
     <Content Include="Index.aspx" />
     <Content Include="sample2.aspx" />
@@ -126,6 +127,13 @@
     </Compile>
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="getdata.aspx.cs">
+      <DependentUpon>getdata.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="getdata.aspx.designer.cs">
+      <DependentUpon>getdata.aspx</DependentUpon>
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>

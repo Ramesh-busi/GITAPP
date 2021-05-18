@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="sample2.aspx.cs" Inherits="GItAPP.sample2" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="getdata.aspx.cs" Inherits="GItAPP.getdata" %>
 
 <!DOCTYPE html>
 
@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    <p>this is sample2 page </p>
+    <p>this is get page</p>
     </div>
     </form>
 </body>
