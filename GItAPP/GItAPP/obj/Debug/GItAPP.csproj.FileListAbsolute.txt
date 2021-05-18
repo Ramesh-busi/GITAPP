@@ -2,3 +2,9 @@ D:\GITSampleproject\GItAPP\GItAPP\bin\GItAPP.dll
 D:\GITSampleproject\GItAPP\GItAPP\bin\GItAPP.pdb
 D:\GITSampleproject\GItAPP\GItAPP\obj\Debug\GItAPP.dll
 D:\GITSampleproject\GItAPP\GItAPP\obj\Debug\GItAPP.pdb
+C:\GITsampleproject\GITAPP\GItAPP\GItAPP\bin\GItAPP.dll.config
+C:\GITsampleproject\GITAPP\GItAPP\GItAPP\bin\GItAPP.dll
+C:\GITsampleproject\GITAPP\GItAPP\GItAPP\bin\GItAPP.pdb
+C:\GITsampleproject\GITAPP\GItAPP\GItAPP\obj\Debug\GItAPP.csprojResolveAssemblyReference.cache
+C:\GITsampleproject\GITAPP\GItAPP\GItAPP\obj\Debug\GItAPP.dll
+C:\GITsampleproject\GITAPP\GItAPP\GItAPP\obj\Debug\GItAPP.pdb
